@@ -195,7 +195,7 @@ header .logo {
   height: 100%;
   display: inline-block;
   width: 45%;
-  /* margin-bottom: 25px; */
+  margin-bottom: 25px;
 }
 .cta-img {
   height: 100%;
@@ -203,18 +203,20 @@ header .logo {
   width: 45%;
 }
 
-.cta h1 {
+/* .cta h1 {
   padding-bottom: 75px;
-}
+} */
 
 .vert {
   /* padding-bottom: 25px; */
 }
 
-button {
-  margin-bottom: 50px;
+.btn {
+  margin-bottom: 150px;
+  margin-top: 0;
+  color: black;
+  padding: 5px 50px;
   width: 200px;
-  padding: 10px;
   border: 1px solid black;
   background: none;
   font-size: 18px;
